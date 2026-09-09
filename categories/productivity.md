@@ -29,6 +29,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 918 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
 | [**Memento**](https://github.com/yaa110/Memento) | A simple and elegant note-taking app. (Archived) | `Java` | Not specified | 258 | — |
 | [**Minimal-Todo**](https://github.com/avjinder/Minimal-Todo) | A fully Material Design To-Do app with just enough features to be useful. | `Java` | `MIT` | 2.2k | — |
+| [**Markor**](https://github.com/gsantner/markor) | A lightweight text editor for Android supporting notes, Markdown, and to-do lists. | `Java` | `Apache-2.0` | 6.1k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/net.gsantner.markor/) |
 | [**Minitask**](https://github.com/luong-komorebi/Minitask) | A simple and lightweight to-do list and task management app. (Archived) | `Java` | `Apache-2.0` | 28 | — |
 | [**My Brain**](https://github.com/mhss1/MyBrain) | An all-in-one app for managing tasks, notes, events, and more. | `Kotlin` | `GPL-3.0` | 2.2k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.mhss.app.mybrain) |
 | [**neutriNote**](https://github.com/appml/neutrinote) | An ultra-compact, extensible rich markdown note app with math formula support. | `Java` | `GPL-3.0` | 475 | — |
@@ -55,6 +56,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 108 | — |
 | [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
+
 
 ---
 
